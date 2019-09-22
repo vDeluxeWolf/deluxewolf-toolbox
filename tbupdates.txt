@@ -3,3 +3,4 @@ V1.0 Release of Toolbox
   ~ Android Toolkit released
   ~ Cleaner added
   ~ Server Update Feed Updated & configured
+  ~ Update function changes
